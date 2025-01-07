@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-15T13:30:29 IST" name="Suite" finished-at="2023-09-15T13:30:58 IST" duration-ms="29035">
+    <groups>
+    </groups>
+    <test started-at="2023-09-15T13:30:29 IST" name="Test" finished-at="2023-09-15T13:30:58 IST" duration-ms="29035">
+      <class name="com.obs.tests.BannerMessageForTransfer">
+        <test-method is-config="true" signature="initialyeReport()[pri:0, instance:com.obs.tests.BannerMessageForTransfer@3f191845]" started-at="2023-09-15T13:30:29 IST" name="initialyeReport" finished-at="2023-09-15T13:30:29 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialyeReport -->
+        <test-method is-config="true" signature="launch(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.obs.tests.BannerMessageForTransfer@3f191845]" started-at="2023-09-15T13:30:29 IST" name="launch" finished-at="2023-09-15T13:30:33 IST" duration-ms="3816" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.obs.tests.BannerMessageForTransfer.Validate_BannerMessage_For_Transfer() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="Validate_BannerMessage_For_Transfer()[pri:0, instance:com.obs.tests.BannerMessageForTransfer@3f191845]" started-at="2023-09-15T13:30:33 IST" name="Validate_BannerMessage_For_Transfer" finished-at="2023-09-15T13:30:58 IST" duration-ms="25163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_BannerMessage_For_Transfer -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.obs.tests.BannerMessageForTransfer@3f191845]" started-at="2023-09-15T13:30:58 IST" name="closeBrowser" finished-at="2023-09-15T13:30:58 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Validate_BannerMessage_For_Transfer status=SUCCESS method=BannerMessageForTransfer.Validate_BannerMessage_For_Transfer()[pri:0, instance:com.obs.tests.BannerMessageForTransfer@3f191845] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.obs.tests.BannerMessageForTransfer@3f191845]" started-at="2023-09-15T13:30:58 IST" name="cleanup" finished-at="2023-09-15T13:30:59 IST" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.obs.tests.BannerMessageForTransfer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
