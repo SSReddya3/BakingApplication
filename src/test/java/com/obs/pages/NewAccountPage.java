@@ -66,6 +66,7 @@ public class NewAccountPage {
 	@SuppressWarnings("unlikely-arg-type")
 	public void NewUserCreation(HashMap<String,String> data) {
 		NewAccount.click();
+		log.info("successfully user clicked on New Account");
 		accountNumber.sendKeys(data.get("accountNumber"));
 		FirstName.sendKeys(data.get("FirstName"));
 		middleName.sendKeys(data.get("middleName"));

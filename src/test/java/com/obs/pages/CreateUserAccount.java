@@ -87,6 +87,9 @@ public class CreateUserAccount {
 	
 	//h2[text()='Account successfully saved.']
 	
+	@FindBy(xpath = "//h1[text()='Welcome to ']")
+	WebElement WelcomeText;
+	
 	
 	String url,userName,Password;
 	long Accountnumber = RandomNumber.getRandomNumber();
@@ -115,7 +118,7 @@ public class CreateUserAccount {
 		log.info("successfully user clicked on New Account");
 		
 	if(CreateNewAcctHeader.isDisplayed()) {
-		accountNumber.sendKeys("5675456");
+		accountNumber.sendKeys("15675456");
 		FirstName.sendKeys("Venkat");
 		middleName.sendKeys("Krishna");
 		lastName.sendKeys("VK");
@@ -167,9 +170,22 @@ public class CreateUserAccount {
 		Thread.sleep(3000);
 		Assert.assertTrue(true, "User Sccessfully loged in to user acount");
 		test.log(Status.PASS, "User Sccessfully loged in to user acount");
-		log.info("User Sccessfully loged in to user acount");
+		log.info("User Sccessfully loged in to user account");
 	}
 	
+	public void verifyWelcomeText() throws InterruptedException {
+		Thread.sleep(5000);
+		if(WelcomeText.isDisplayed()) {
+			Assert.assertTrue(true, "User Home page is displayed successfully");
+			test.log(Status.PASS, "User Home page is displayed successfully");
+			log.info("User Home page is displayed successfully");
+		}else {
+			test.log(Status.FAIL, "User Home page is NOT displayed");
+			log.info("User Home page is NOT displayed");
+			Assert.assertTrue(false, "User Home page is NOT displayed");
+		}
+
+	}
 	public void Validate_Banner_Message() {
 		try {
 		if(BannerMessage.equals("Account successfully saved.")) {

@@ -20,6 +20,8 @@ public class TransferAmountPage {
 	WebDriver driver;
 	ExtentTest test;
 	
+	//@FindBy(xpath = "(//p[contains(text(),'Transaction')])[1]")
+	//WebElement TransferOption;
 	@FindBy(xpath="//a[@class='nav-link nav-transfer']/i")
 	WebElement TransferOption;
 	
