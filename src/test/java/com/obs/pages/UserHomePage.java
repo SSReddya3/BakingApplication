@@ -22,13 +22,13 @@ public class UserHomePage  {
 	WebDriver driver;
 	ExtentTest test;
 	
-	@FindBy(xpath = "//h1[normalize-space()='Welcome to Online Banking System']")
+	@FindBy(xpath = "//h1[text()='Welcome to ']")
 	WebElement WelcomeText;
 	
 	@FindBy(xpath="//span[@class='ml-3']")
 	WebElement profileIcon;
 	
-	@FindBy(xpath="//a[normalize-space()='Logout']")
+	@FindBy(xpath="//a[contains(text(),'Logout')] ")
 	WebElement logout;
 	
 	@FindBy(xpath="//h3[contains(normalize-space(),'Current Balance: ')]")

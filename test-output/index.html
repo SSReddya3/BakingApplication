@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>C:\Users\user\Downloads\Banking-Application-HEAD\Banking-Application-HEAD\testng.xml</span>
+                    <span>C:\Users\DELL\git\BakingApplication\testng1.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -136,17 +136,17 @@
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\user\Downloads\Banking-Application-HEAD\Banking-Application-HEAD\testng.xml</span>
+            <span class="header-content">C:\Users\DELL\git\BakingApplication\testng1.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+&lt;suite parallel=&quot;classes&quot; name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;com.obs.listeners.ListenerClass&quot;/&gt;
   &lt;/listeners&gt;
-  &lt;test thread-count=&quot;1&quot; name=&quot;Test&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; parallel=&quot;classes&quot; name=&quot;Test&quot;&gt;
     &lt;parameter name=&quot;Browser&quot; value=&quot;edge&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.obs.tests.BannerMessageForTransfer&quot;/&gt;
@@ -193,12 +193,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'Validate_BannerMessage_For_Transfer')
 data.setCell(0, 2, 'com.obs.tests.BannerMessageForTransfer')
-data.setCell(0, 3, 25163);
+data.setCell(0, 3, 32849);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 25 seconds</span>
+              <span class="suite-total-time">Total running time: 32 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -231,19 +231,19 @@ return data;
               </div> <!-- configuration-suite before -->
               <div class="configuration-method before">
                 <span class="method-name">launch(edge, public void com.obs.tests.BannerMessageForTransfer.Validate_BannerMessage_For_Transfer() throw...)</span>
-                <span class="method-start">241 ms</span>
+                <span class="method-start">307 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">Validate_BannerMessage_For_Transfer</span>
-                <span class="method-start">4060 ms</span>
+                <span class="method-start">10608 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">closeBrowser([TestResult name=Validate_BannerMessage_For_Transfer status=SUCCESS method=BannerMessageForTransfer....)</span>
-                <span class="method-start">29228 ms</span>
+                <span class="method-start">43462 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-suite after">
                 <span class="method-name">cleanup</span>
-                <span class="method-start">29275 ms</span>
+                <span class="method-start">43626 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

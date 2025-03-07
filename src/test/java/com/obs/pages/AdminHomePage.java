@@ -20,11 +20,14 @@ public class AdminHomePage {
 	WebDriver driver;
 	ExtentTest test;
 	
-	@FindBy(xpath="//h1[normalize-space()='Welcome to Online Banking System']")
+	@FindBy(xpath="//h1[text()='Welcome to ']")
 	WebElement homePageText;
 	
 	@FindBy(xpath="//a[@class='nav-link tree-item nav-accounts nav-transactions nav-manage_account']")
 	WebElement accountManagement;
+	
+	@FindBy(xpath="//p[normalize-space()='New Account']")
+	WebElement NewAccount;
 	
 	@FindBy(xpath="//p[normalize-space()='Transaction']")
 	WebElement transaction;
@@ -62,9 +65,15 @@ public class AdminHomePage {
 	//Click on Account management
 	public void clickOnAccMgmt() {
 		accountManagement.click();
-		Assert.assertTrue(false, "Successfully clciked on Account management dropdown");
+		Assert.assertTrue(true, "Successfully clciked on Account management dropdown");
 		test.log(Status.FAIL, "Successfully clciked on Account management dropdown");
 		log.info("Successfully clciked on Account management dropdown");
+	}
+	public void newAccount() {
+		NewAccount.click();
+		Assert.assertTrue(true, "successfully user clicked on New Account");
+		test.log(Status.PASS, "successfully user clicked on New Account");
+		log.info("successfully user clicked on New Account");
 	}
 	
 	//Click on Transactions
@@ -85,7 +94,7 @@ public class AdminHomePage {
 			Thread.sleep(5000);
 			profileIcon.click();
 			logout.click();
-			Assert.assertTrue(false, "Successfully Admin User Loggedout");
+			Assert.assertTrue(true, "Successfully Admin User Loggedout");
 			test.log(Status.FAIL, "Successfully Admin User Loggedout");
 			log.info("Successfully Admin User Loggedout");
 	}

@@ -12,7 +12,7 @@ public class TransferAmount extends BasePage{
 	@Test
 	public void TransferAmount() throws IOException, InterruptedException {
 		AdminLoginPage login = new AdminLoginPage(driver,test);
-		login.verifyLogin();
+	      login.verifyLogin();
 		
 		//user click on transactions
 		TransactionsPage transactions = new TransactionsPage(driver, test);

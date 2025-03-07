@@ -15,6 +15,8 @@ public class BannerMessageForTransfer extends BasePage{
 	public void Validate_BannerMessage_For_Transfer() throws IOException, InterruptedException {
 		AdminLoginPage login = new AdminLoginPage(driver,test);
 		login.verifyLogin();
+		
+		
 		TransferAmount transfer=new TransferAmount();
 		transfer.TransferAmount();
 		

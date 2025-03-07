@@ -19,9 +19,10 @@ public class TransactionsPage {
 	Logger log = (Logger) LogManager.getLogger(TransactionsPage.class);
 	WebDriver driver;
 	ExtentTest test;
-	
-	@FindBy(xpath="//p[normalize-space()='Transaction']")
+	@FindBy(xpath = "(//p[contains(text(),'Transaction')])[1]")
 	WebElement Transaction;
+	//@FindBy(xpath="//p[normalize-space()='Transaction']")
+//	WebElement Transaction;
 	
 	@FindBy(xpath="//p[normalize-space()='Deposit']")
 	WebElement Deposit;

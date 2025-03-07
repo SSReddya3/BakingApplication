@@ -43,7 +43,7 @@ public class UserLoginPage  {
 	public void userLogin(String email,String password) throws InterruptedException {
 		emailField.sendKeys(email);
 		passwordField.sendKeys(password);
-		//loginbtn.click();
+		loginbtn.click();
 		((JavascriptExecutor)driver).executeScript("arguments[0].click();", loginbtn);
 		Thread.sleep(3000);
 	}

@@ -23,7 +23,7 @@ public class AdminLoginPage  {
 	WebDriver driver;
 	ExtentTest test;
 	
-	@FindBy(xpath = "//input[@placeholder='Username']")
+	@FindBy(xpath = "//input[@name='username']")
 	WebElement UserName;
 	
 	@FindBy(xpath="//input[@placeholder='Password']")

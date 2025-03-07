@@ -27,43 +27,48 @@ public class CreateNewAccount extends BasePage{
 	public void CreateNewAccount() throws IOException, InterruptedException{
 		String emailId = "onlinetestinghelp5675456@gmail.com";
 		String userPwd = "123456";
+		
 		AdminLoginPage login = new AdminLoginPage(driver,test);
 		login.verifyLogin();
+
+		AdminHomePage home=new AdminHomePage(driver,test);
+	 //	home.clickOnAccMgmt();
+	//	 home.newAccount();
 		
-		
-		CreateUserAccount newuser=new CreateUserAccount(driver, test);
+	CreateUserAccount newuser=new CreateUserAccount(driver, test);
 		newuser.Create_New_Account();
 		newuser.LogoutOption();
 		newuser.userLogin(emailId, userPwd);
-		
+		newuser.verifyWelcomeText();
+		newuser.LogoutOption();
 
-//		
-//		
-//		//Click on New Account
-////				HashMap<String,String> testData = new HashMap<String,String>();
-////				testData.put("accountNumber", String.valueOf(accountNumber));
-////				testData.put("FirstName", "Venkat");
-////				testData.put("middleName", "Krishna");
-////				testData.put("lastName", "VK");
-////				testData.put("email", emailId);
-////				testData.put("password", userPwd);
-////				testData.put("pin", "1234");
-////				testData.put("balance", "100000");
-//				
-//				NewAccountPage newAccount = new NewAccountPage(driver, test);
-//				//newAccount.NewUserCreation(testData);
-//				adminHomePage.logout();
-//				
-//				//User Login
-//				login.gotoUserLogin();
-//				UserLoginPage userPage = new UserLoginPage(driver, test);
-//				userPage.userLogin(emailId, userPwd);
-//				
-//				//Verify welcome text
-//				UserHomePage userHome = new UserHomePage(driver, test);
-//				userHome.verifyWelcomeText();
-//				userHome.logout();
-//				
-//		
+		
+		
+		//Click on New Account
+				HashMap<String,String> testData = new HashMap<String,String>();
+				testData.put("accountNumber", String.valueOf(accountNumber));
+				testData.put("FirstName", "Venkat");
+				testData.put("middleName", "Krishna");
+				testData.put("lastName", "VK");
+				testData.put("email", emailId);
+				testData.put("password", userPwd);
+				testData.put("pin", "1234");
+				testData.put("balance", "100000");
+				
+				NewAccountPage newAccount = new NewAccountPage(driver, test);
+		     // 	newAccount.NewUserCreation(testData);
+			//	adminHomePage.logout();
+				
+				//User Login
+			//	login.gotoUserLogin();
+				UserLoginPage userPage = new UserLoginPage(driver, test);
+			//	userPage.userLogin(emailId, userPwd);
+				
+				//Verify welcome text
+				UserHomePage userHome = new UserHomePage(driver, test);
+				//userHome.verifyWelcomeText();
+				//userHome.logout();
+				
+		
 	}
 }
