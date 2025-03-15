@@ -13,7 +13,7 @@ import org.testng.Assert;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.obs.common.StandardWaitTimes;
-import com.obs.tests.LoginTest;
+import com.obs.tests.A1LoginTest;
 
 public class UserHomePage  {
 	

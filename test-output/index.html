@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>C:\Users\DELL\git\BakingApplication\testng1.xml</span>
+                    <span>C:\Users\DELL\git\BakingApplication\BakingApplication\testng.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -103,7 +103,7 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.obs.tests.BannerMessageForTransfer" class="method navigator-link" hash-for-method="Validate_BannerMessage_For_Transfer">Validate_BannerMessage_For_Transfer</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.obs.tests.A13BannerMessageForWithdrawAmount" class="method navigator-link" hash-for-method="Validate_BanerMessageForWithdrawAmount">Validate_BanerMessageForWithdrawAmount</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -121,14 +121,14 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">com.obs.tests.BannerMessageForTransfer</span>
+              <span class="class-name">com.obs.tests.A13BannerMessageForWithdrawAmount</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="Validate_BannerMessage_For_Transfer">
-                  </a> <!-- Validate_BannerMessage_For_Transfer -->
-                  <span class="method-name">Validate_BannerMessage_For_Transfer</span>
+                  <a name="Validate_BanerMessageForWithdrawAmount">
+                  </a> <!-- Validate_BanerMessageForWithdrawAmount -->
+                  <span class="method-name">Validate_BanerMessageForWithdrawAmount</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -136,20 +136,20 @@
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\DELL\git\BakingApplication\testng1.xml</span>
+            <span class="header-content">C:\Users\DELL\git\BakingApplication\BakingApplication\testng.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite parallel=&quot;classes&quot; name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+&lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;com.obs.listeners.ListenerClass&quot;/&gt;
   &lt;/listeners&gt;
-  &lt;test thread-count=&quot;5&quot; parallel=&quot;classes&quot; name=&quot;Test&quot;&gt;
-    &lt;parameter name=&quot;Browser&quot; value=&quot;edge&quot;/&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;Test&quot;&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.obs.tests.BannerMessageForTransfer&quot;/&gt;
+      &lt;class name=&quot;com.obs.tests.A13BannerMessageForWithdrawAmount&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -191,14 +191,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'Validate_BannerMessage_For_Transfer')
-data.setCell(0, 2, 'com.obs.tests.BannerMessageForTransfer')
-data.setCell(0, 3, 32849);
+data.setCell(0, 1, 'Validate_BanerMessageForWithdrawAmount')
+data.setCell(0, 2, 'com.obs.tests.A13BannerMessageForWithdrawAmount')
+data.setCell(0, 3, 29055);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 32 seconds</span>
+              <span class="suite-total-time">Total running time: 29 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -224,26 +224,26 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.obs.tests.BannerMessageForTransfer</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.obs.tests.A13BannerMessageForWithdrawAmount</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">initialyeReport</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-method before">
-                <span class="method-name">launch(edge, public void com.obs.tests.BannerMessageForTransfer.Validate_BannerMessage_For_Transfer() throw...)</span>
-                <span class="method-start">307 ms</span>
+                <span class="method-name">launch(chrome, public void com.obs.tests.A13BannerMessageForWithdrawAmount.Validate_BanerMessageForWithdraw...)</span>
+                <span class="method-start">303 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">Validate_BannerMessage_For_Transfer</span>
-                <span class="method-start">10608 ms</span>
+                <span class="method-name">Validate_BanerMessageForWithdrawAmount</span>
+                <span class="method-start">2751 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">closeBrowser([TestResult name=Validate_BannerMessage_For_Transfer status=SUCCESS method=BannerMessageForTransfer....)</span>
-                <span class="method-start">43462 ms</span>
+                <span class="method-name">closeBrowser([TestResult name=Validate_BanerMessageForWithdrawAmount status=SUCCESS method=A13BannerMessageForWit...)</span>
+                <span class="method-start">31811 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-suite after">
                 <span class="method-name">cleanup</span>
-                <span class="method-start">43626 ms</span>
+                <span class="method-start">36163 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

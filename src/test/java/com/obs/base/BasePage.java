@@ -69,7 +69,8 @@ public class BasePage {
 	}
 	
 	@AfterMethod
-	public void closeBrowser(ITestResult result) {
-		//driver.quit();
+	public void closeBrowser(ITestResult result) throws InterruptedException {
+		Thread.sleep(3000);
+		driver.quit();
 	}
 }

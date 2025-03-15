@@ -20,7 +20,7 @@ import com.obs.utilities.RandomNumber;
 public class CreateUserAccount {
 	
 	
-	Logger log = (Logger) LogManager.getLogger(NewAccountPage.class);
+	Logger log = (Logger) LogManager.getLogger(CreateUserAccount.class);
 	WebDriver driver;
 	ExtentTest test;
 	
@@ -82,8 +82,13 @@ public class CreateUserAccount {
 	@FindBy(xpath = "//button[normalize-space()='Login']")
 	WebElement loginbtn;
 	
-	@FindBy(xpath = "//h2[text()='Account successfully saved.']")
+	//@FindBy(xpath = "//h2[text()='Account successfully saved.']")
+	WebElement BannerMessage1;
+	
+	@FindBy(xpath = "//script[contains(text(),'Account successfully saved.')]")
 	WebElement BannerMessage;
+
+	
 	
 	//h2[text()='Account successfully saved.']
 	
@@ -93,7 +98,7 @@ public class CreateUserAccount {
 	
 	String url,userName,Password;
 	long Accountnumber = RandomNumber.getRandomNumber();
-	String emailId = "onlinetestinghelp5675456@gmail.com";
+	String emailId = "onlinetestinghelp"+RandomNumber.getRandomNumber()+"@gmail.com";
 	String userPwd = "123456";
 	
 	
@@ -118,7 +123,7 @@ public class CreateUserAccount {
 		log.info("successfully user clicked on New Account");
 		
 	if(CreateNewAcctHeader.isDisplayed()) {
-		accountNumber.sendKeys("15675456");
+		accountNumber.sendKeys(String.valueOf(Accountnumber));
 		FirstName.sendKeys("Venkat");
 		middleName.sendKeys("Krishna");
 		lastName.sendKeys("VK");

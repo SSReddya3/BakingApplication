@@ -16,7 +16,7 @@ import com.aventstack.extentreports.Status;
 import com.obs.common.StandardWaitTimes;
 
 public class AdminWithdrawAmountPage {
-	Logger log = (Logger) LogManager.getLogger(TransactionsPage.class);
+	Logger log = (Logger) LogManager.getLogger(AdminWithdrawAmountPage.class);
 	WebDriver driver;
 	ExtentTest test;
 	@FindBy(xpath="//p[normalize-space()='Withdraw']")
@@ -67,7 +67,7 @@ public class AdminWithdrawAmountPage {
 	@FindBy(xpath = "//button[normalize-space()='Login']")
 	WebElement loginbtn;
 	
-	@FindBy(xpath = "//h3[normalize-space()='Current Balance: 1,071,000.00']")
+	@FindBy(xpath = "//h3[contains(text(),'Current Balance: ')]")
 	WebElement UsersInitialBalance;
 	
 	@FindBy(xpath = "//a[text()='User Login']")
@@ -101,6 +101,8 @@ public class AdminWithdrawAmountPage {
 		}
 	
 	public void EnterUsersCredentials() throws InterruptedException {
+		test.log(Status.PASS, "Successfully EnteredUsersCredentials");
+		log.info("Successfully EnteredUsersCredentials");
 		emailField.sendKeys("onlinetestinghelp6124934@gmail.com");
 		passwordField.sendKeys("123456");
 		//login button

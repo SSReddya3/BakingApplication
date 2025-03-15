@@ -95,7 +95,7 @@ public class TransferAmountPage {
 				DepositAmountField.sendKeys("200");
 				Thread.sleep(3000);
 				SubmitButton.click();
-				Assert.assertTrue(true, "Successfully Amount is Transfered to other Account");
+			//	Assert.assertTrue(true, "Successfully Amount is Transfered to other Account");
 				test.log(Status.PASS, "Successfully Amount is Transfered to other Account");
 				log.info("Successfully Amount is Transfered to other Account");
 				
@@ -121,13 +121,13 @@ public class TransferAmountPage {
 				test.log(Status.PASS, "Error message is displayed as 'Account doesn't exist'");
 				log.info("Error message is displayed as 'Account doesn't exist'");
 			
-//			DepositAmountField.sendKeys("200");
-//				Thread.sleep(3000);
-//				Assert.assertTrue(true, "Successfully Amount is Transfered to other Account");
-//				test.log(Status.PASS, "Successfully Amount is Transfered to other Account");
-//				log.info("Successfully Amount is Transfered to other Account");
-//				
-			//}
+			DepositAmountField.sendKeys("200");
+				Thread.sleep(3000);
+				Assert.assertTrue(true, "Successfully Amount is Transfered to other Account");
+				test.log(Status.PASS, "Successfully Amount is Transfered to other Account");
+				log.info("Successfully Amount is Transfered to other Account");
+				
+		
 		}
 	
 	

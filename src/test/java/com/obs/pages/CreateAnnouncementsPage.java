@@ -58,7 +58,7 @@ public class CreateAnnouncementsPage {
 	WebElement Deletepopup;
 	
 	
-	@FindBy(xpath="(//button[@type='button'])[10]")
+	@FindBy(xpath="//button[@id='confirm']")
 	WebElement ConfirmButton;
 	
 	
@@ -167,16 +167,15 @@ public class CreateAnnouncementsPage {
 				test.log(Status.PASS, "User successfully Clicked on Delete option");
 				log.info("User successfully Clicked on Delete option");
 				
-//				//if(Deletepopup.isDisplayed()) {
-//				Thread.sleep(3000);
-//					Alert alert=driver.switchTo().alert();
-//					Thread.sleep(3000);
-//					ConfirmButton.click();
-//					//ConfirmButton.click();
-//					Assert.assertTrue(true, "User successfully Deleted Announcement");
-//					test.log(Status.PASS, "User successfully Deleted Announcement");
-//					log.info("User successfully Deleted Announcement");
-//				//}
+				Thread.sleep(3000);
+				ConfirmButton.click();
+				//ConfirmButton.click();
+				Thread.sleep(3000);
+				Assert.assertTrue(true, "User successfully Deleted Announcement");
+				test.log(Status.PASS, "User successfully Deleted Announcement");
+				log.info("User successfully Deleted Announcement");
+				
+				
 				
 	}catch(Exception e) {
 		e.printStackTrace();

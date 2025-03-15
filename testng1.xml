@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite parallel="classes" name="Suite">
- <listeners>
+<suite thread-count="30" parallel="classes" name="Suite">
+<listeners>
 	<listener class-name="com.obs.listeners.ListenerClass"></listener>
 </listeners>
-  <test thread-count="5" parallel="classes" name="Test">
-   <parameter name="Browser" value="edge"></parameter>
+ <parameter name="Browser" value="chrome"></parameter>
+  <test thread-count="3" parallel="classes" name="Test">
+  
     <classes>
-      <class name="com.obs.tests.BannerMessageForTransfer"/>
+       <class name="com.obs.tests.A1LoginTest"/>
+       <class name="com.obs.tests.A2CreateNewAccount"/>
+       <class name="com.obs.tests.A3CreateNewUserFromManageAccountscreen"/>
+       <class name="com.obs.tests.A4VerifyUserLogin"/>
+       <class name="com.obs.tests.A5DepositAmount"/>
+       <class name="com.obs.tests.A6VerifyDepositAmount"/>
+       <class name="com.obs.tests.A8TransferAmount"/>
+       <class name="com.obs.tests.A9TransferAmountwithInvalidAccount"/>
+       <class name="com.obs.tests.A10AdminWithDrawAmount"/>
+       <class name="com.obs.tests.A11AdminWithdrawInvalidAccount"/>
+       <class name="com.obs.tests.A12BannerMessageForTransfer"/>
+       <class name="com.obs.tests.A13BannerMessageForWithdrawAmount"/>
+       <class name="com.obs.tests.A14BannnerMessageForCreateAccount"/> 
+       <class name="com.obs.tests.A15CancelFunctionalityinDepositScreen"/>
+       <class name="com.obs.tests.A16CreateAnnouncements"/>  
+       <class name="com.obs.tests.A17UpdatingAnnouncements"/>
+       <class name="com.obs.tests.A18DeleteAnnouncements"/>
+       <class name="com.obs.tests.A19SettingsScreen"/>
+       <class name="com.obs.tests.A20UpdateUserAccount"/>
+       <class name="com.obs.tests.A21DeleteUserAccount"/>
+       
+       
     </classes>
-    
-    
   </test> <!-- Test -->
 </suite> <!-- Suite -->

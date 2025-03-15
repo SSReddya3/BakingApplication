@@ -3014,3 +3014,1069 @@
 [INFO ] 2025-01-08 17:03:35.057 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
 [INFO ] 2025-01-08 17:03:35.614 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Transfer Option
 [INFO ] 2025-01-08 17:03:42.934 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-08 16:56:17.658 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 16:56:21.498 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 16:56:23.543 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 16:56:27.743 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 16:56:28.197 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 16:56:28.609 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 16:56:28.755 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 16:56:32.923 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 16:56:33.074 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 16:56:34.235 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 16:56:34.590 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 16:56:34.671 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 16:56:34.882 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 16:56:35.247 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 16:56:35.342 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 16:56:40.739 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 16:56:40.748 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-08 17:00:12.041 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 17:00:16.917 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 17:00:18.718 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 17:00:22.966 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:00:23.407 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 17:00:23.753 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 17:00:23.884 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 17:00:28.023 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:00:28.155 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 17:00:29.087 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 17:00:29.631 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 17:00:29.702 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 17:00:29.863 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 17:00:30.210 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 17:00:30.286 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 17:00:35.681 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 17:00:35.698 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-08 17:02:02.731 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 17:02:05.195 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 17:02:06.384 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 17:02:10.587 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:02:11.346 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 17:02:11.856 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 17:02:12.059 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 17:02:16.203 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:02:16.371 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 17:02:18.775 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 17:02:18.992 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 17:02:19.058 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 17:02:19.236 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 17:02:19.658 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 17:02:19.737 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 17:02:25.122 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 17:02:25.134 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-08 17:04:07.987 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 17:04:11.947 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 17:04:13.107 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 17:04:17.295 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:04:17.733 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 17:04:18.105 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 17:04:18.229 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 17:04:22.393 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:04:22.531 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 17:04:23.412 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 17:04:23.744 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 17:04:23.850 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 17:04:24.007 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 17:04:24.334 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 17:04:24.407 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 17:04:29.799 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 17:04:29.809 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-08 17:05:34.787 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 17:05:39.305 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 17:05:40.313 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 17:05:44.505 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:05:44.995 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 17:05:45.325 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 17:05:45.462 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 17:05:49.608 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:05:49.755 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 17:05:50.565 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 17:05:50.793 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 17:05:50.873 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 17:05:51.014 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 17:05:51.374 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 17:05:51.452 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 17:05:56.958 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 17:05:56.977 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-08 17:07:53.287 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 17:07:56.439 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 17:07:58.431 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 17:08:02.686 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:08:03.108 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 17:08:03.513 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 17:08:03.673 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 17:08:07.811 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:08:07.944 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 17:08:08.863 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 17:08:09.096 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 17:08:09.158 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 17:08:09.319 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 17:08:09.639 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 17:08:09.712 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 17:08:15.095 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 17:08:15.109 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-08 17:12:00.984 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 17:12:06.751 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 17:12:07.847 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 17:12:12.066 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:12:12.604 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 17:12:12.995 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 17:12:13.168 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 17:12:17.485 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:12:17.704 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 17:12:19.329 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 17:12:20.608 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 17:12:20.671 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 17:12:20.912 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 17:12:21.767 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 17:12:21.864 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 17:12:27.245 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 17:12:27.256 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-08 17:17:02.530 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-08 17:17:06.011 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-08 17:17:07.927 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-08 17:17:12.115 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:17:12.520 [TestNG-test=Test-1] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-08 17:17:12.844 [TestNG-test=Test-1] TransactionsPage - User entered required fields
+[INFO ] 2025-03-08 17:17:12.981 [TestNG-test=Test-1] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-08 17:17:17.125 [TestNG-test=Test-1] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-08 17:17:17.275 [TestNG-test=Test-1] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-08 17:17:18.129 [TestNG-test=Test-1] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-08 17:17:18.413 [TestNG-test=Test-1] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-08 17:17:18.494 [TestNG-test=Test-1] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-08 17:17:18.683 [TestNG-test=Test-1] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-08 17:17:19.015 [TestNG-test=Test-1] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-08 17:17:19.089 [TestNG-test=Test-1] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-08 17:17:24.590 [TestNG-test=Test-1] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-08 17:17:24.610 [TestNG-test=Test-1] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-10 15:08:32.165 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:08:32.165 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:08:39.612 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:08:39.612 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:08:54.829 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:08:54.829 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:08:55.153 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:08:55.154 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:08:55.270 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:08:55.851 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:09:05.512 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:09:07.460 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:09:10.057 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:09:10.881 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-10 15:09:11.654 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:09:12.237 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-10 15:09:17.665 [main] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-10 15:09:27.426 [main] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-10 15:18:35.302 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:18:36.661 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:18:40.641 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:18:45.089 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:18:45.505 [main] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-10 15:18:45.904 [main] TransactionsPage - User entered required fields
+[INFO ] 2025-03-10 15:18:46.044 [main] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-10 15:18:50.199 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:18:50.344 [main] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-10 15:18:51.441 [main] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-10 15:18:52.001 [main] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-10 15:18:52.102 [main] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-10 15:18:52.491 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-10 15:18:52.883 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-10 15:18:52.987 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-10 15:18:58.442 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-10 15:18:58.468 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-10 15:28:49.275 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:28:52.520 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:28:54.941 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:28:59.744 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:29:00.370 [main] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-10 15:29:00.805 [main] TransactionsPage - User entered required fields
+[INFO ] 2025-03-10 15:29:00.956 [main] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-10 15:29:05.105 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:29:05.260 [main] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-10 15:29:06.191 [main] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-10 15:29:06.552 [main] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-10 15:29:06.634 [main] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-10 15:29:06.835 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-10 15:29:07.197 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-10 15:29:07.305 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-10 15:29:12.800 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-10 15:29:12.836 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-10 15:41:24.294 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:41:25.703 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:41:27.341 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:41:32.593 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:41:33.062 [main] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-10 15:41:33.449 [main] TransactionsPage - User entered required fields
+[INFO ] 2025-03-10 15:41:33.600 [main] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-10 15:41:37.765 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:41:37.898 [main] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-10 15:41:38.887 [main] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-10 15:41:39.135 [main] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-10 15:41:39.212 [main] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-10 15:41:39.571 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-10 15:41:39.879 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-10 15:41:39.960 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-10 15:41:45.403 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-10 15:41:45.425 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-10 15:54:22.727 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:54:24.115 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:54:27.547 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 15:54:32.421 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:54:32.974 [main] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-10 15:54:33.358 [main] TransactionsPage - User entered required fields
+[INFO ] 2025-03-10 15:54:33.490 [main] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-10 15:54:37.667 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 15:54:37.799 [main] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-10 15:54:38.905 [main] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-10 15:54:39.151 [main] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-10 15:54:39.240 [main] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-10 15:54:39.736 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-10 15:54:40.620 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-10 15:54:40.681 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-10 15:54:46.150 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-10 15:54:46.165 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-10 15:54:46.953 [main] TransactionsPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-10 15:59:54.943 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 15:59:56.370 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 15:59:58.866 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:00:03.148 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 16:00:04.363 [main] TransactionsPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-10 16:00:04.715 [main] TransactionsPage - User entered required fields
+[INFO ] 2025-03-10 16:00:04.867 [main] TransactionsPage - User clicked on submit button
+[INFO ] 2025-03-10 16:00:09.031 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 16:00:09.183 [main] TransactionsPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-10 16:00:10.147 [main] TransactionsPage - User clicked on Manage account
+[INFO ] 2025-03-10 16:00:10.410 [main] TransactionsPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-10 16:00:10.489 [main] TransactionsPage - Successfully Amount is deposited
+[INFO ] 2025-03-10 16:00:10.663 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-10 16:00:10.932 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-10 16:00:11.023 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-10 16:00:16.568 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-10 16:00:16.588 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-10 16:00:17.191 [main] TransactionsPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-10 16:01:20.725 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 16:01:26.547 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 16:01:27.949 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:01:32.147 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 16:01:32.673 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-10 16:01:33.086 [main] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-10 16:01:33.226 [main] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-10 16:01:37.593 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-10 16:01:37.963 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-10 16:01:39.248 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-10 16:01:39.636 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-10 16:01:39.748 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-10 16:01:39.907 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-10 16:01:40.250 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-10 16:01:40.342 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-10 16:01:45.756 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-10 16:01:45.809 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-10 16:01:46.469 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-10 16:19:27.613 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 16:19:29.268 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 16:19:32.972 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:19:33.631 [main] NewAccountPage - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-10 16:19:33.947 [main] NewAccountPage - successfully user clicked on New Account
+[INFO ] 2025-03-10 16:19:35.200 [main] NewAccountPage - User entered all the required fields
+[INFO ] 2025-03-10 16:19:35.344 [main] NewAccountPage - User clicked on save button
+[INFO ] 2025-03-10 16:19:40.753 [main] NewAccountPage - User clicked on profle icon
+[INFO ] 2025-03-10 16:19:42.644 [main] NewAccountPage - User clicked on Logout
+[INFO ] 2025-03-10 16:19:43.271 [main] NewAccountPage - User clicked on UserLogin link
+[INFO ] 2025-03-10 16:19:44.070 [main] NewAccountPage - User entered username & password
+[INFO ] 2025-03-10 16:19:47.144 [main] NewAccountPage - User Sccessfully loged in to user account
+[INFO ] 2025-03-10 16:19:52.218 [main] NewAccountPage - User Home page is displayed successfully
+[INFO ] 2025-03-10 16:19:57.355 [main] NewAccountPage - User clicked on profle icon
+[INFO ] 2025-03-10 16:19:57.623 [main] NewAccountPage - User clicked on Logout
+[INFO ] 2025-03-10 16:21:34.584 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 16:21:38.970 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 16:21:40.589 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:21:40.837 [main] NewAccountPage - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-10 16:21:41.267 [main] NewAccountPage - successfully user clicked on New Account
+[INFO ] 2025-03-10 16:21:42.502 [main] NewAccountPage - User entered all the required fields
+[INFO ] 2025-03-10 16:21:42.627 [main] NewAccountPage - User clicked on save button
+[INFO ] 2025-03-10 16:21:47.782 [main] NewAccountPage - User clicked on profle icon
+[INFO ] 2025-03-10 16:21:48.010 [main] NewAccountPage - User clicked on Logout
+[INFO ] 2025-03-10 16:21:48.561 [main] NewAccountPage - User clicked on UserLogin link
+[INFO ] 2025-03-10 16:21:48.911 [main] NewAccountPage - User entered username & password
+[INFO ] 2025-03-10 16:21:52.004 [main] NewAccountPage - User Sccessfully loged in to user account
+[INFO ] 2025-03-10 16:21:57.073 [main] NewAccountPage - User Home page is displayed successfully
+[INFO ] 2025-03-10 16:22:02.208 [main] NewAccountPage - User clicked on profle icon
+[INFO ] 2025-03-10 16:22:02.775 [main] NewAccountPage - User clicked on Logout
+[INFO ] 2025-03-10 16:25:39.227 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 16:25:42.596 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 16:25:43.807 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:25:44.022 [main] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-10 16:25:44.358 [main] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-10 16:25:45.639 [main] CreateUserAccount - User entered all the required fields
+[INFO ] 2025-03-10 16:25:45.779 [main] CreateUserAccount - User clicked on save button
+[INFO ] 2025-03-10 16:25:50.926 [main] CreateUserAccount - User clicked on profle icon
+[INFO ] 2025-03-10 16:25:51.165 [main] CreateUserAccount - User clicked on Logout
+[INFO ] 2025-03-10 16:25:52.136 [main] CreateUserAccount - User clicked on UserLogin link
+[INFO ] 2025-03-10 16:25:52.526 [main] CreateUserAccount - User entered username & password
+[INFO ] 2025-03-10 16:25:55.600 [main] CreateUserAccount - User Sccessfully loged in to user account
+[INFO ] 2025-03-10 16:26:00.707 [main] CreateUserAccount - User Home page is displayed successfully
+[INFO ] 2025-03-10 16:26:05.836 [main] CreateUserAccount - User clicked on profle icon
+[INFO ] 2025-03-10 16:26:06.086 [main] CreateUserAccount - User clicked on Logout
+[INFO ] 2025-03-10 16:38:34.238 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 16:38:37.872 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 16:38:42.703 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:41:57.075 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 16:42:00.946 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 16:42:02.958 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:42:06.810 [main] TransactionsPage - User entered all the required fields
+[INFO ] 2025-03-10 16:42:06.953 [main] TransactionsPage - User clicked on save button
+[INFO ] 2025-03-10 16:42:12.100 [main] CreateUserAccount - User clicked on profle icon
+[INFO ] 2025-03-10 16:42:12.327 [main] CreateUserAccount - User clicked on Logout
+[INFO ] 2025-03-10 16:42:14.271 [main] TransactionsPage - User clicked on UserLogin link
+[INFO ] 2025-03-10 16:42:14.860 [main] TransactionsPage - User entered username & password
+[INFO ] 2025-03-10 16:42:17.938 [main] TransactionsPage - User Sccessfully loged in to user acount
+[INFO ] 2025-03-10 16:56:07.664 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 16:56:13.999 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 16:56:16.550 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 16:56:21.912 [main] CreateNewUserFromManageAccountScreenPage - User entered all the required fields
+[INFO ] 2025-03-10 16:56:22.348 [main] CreateNewUserFromManageAccountScreenPage - User clicked on save button
+[INFO ] 2025-03-10 16:56:27.544 [main] CreateUserAccount - User clicked on profle icon
+[INFO ] 2025-03-10 16:56:27.769 [main] CreateUserAccount - User clicked on Logout
+[INFO ] 2025-03-10 16:56:28.461 [main] CreateNewUserFromManageAccountScreenPage - User clicked on UserLogin link
+[INFO ] 2025-03-10 16:56:28.873 [main] CreateNewUserFromManageAccountScreenPage - User entered username & password
+[INFO ] 2025-03-10 16:56:31.931 [main] CreateNewUserFromManageAccountScreenPage - User Sccessfully loged in to user acount
+[INFO ] 2025-03-10 17:07:09.223 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-10 17:07:45.713 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-10 17:07:53.547 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-10 17:07:55.974 [main] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-10 17:07:57.264 [main] NewAccountPage - successfully user clicked on New Account
+[INFO ] 2025-03-11 16:19:01.905 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 16:19:01.905 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 16:19:03.355 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 16:19:03.466 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 16:19:08.697 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 16:19:10.067 [main] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-11 16:19:11.029 [main] NewAccountPage - successfully user clicked on New Account
+[INFO ] 2025-03-11 16:19:18.566 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-11 16:19:18.568 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-11 16:19:23.822 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2025-03-11 16:41:32.361 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 16:41:34.660 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 16:41:36.368 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 16:41:40.569 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 16:41:41.028 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:41:41.597 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:41:41.801 [main] TransactionsPage - 'Account doesn't exist' error message is displayed
+[INFO ] 2025-03-11 16:48:57.490 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 16:49:01.743 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 16:49:03.298 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 16:49:07.525 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 16:49:07.956 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:49:08.373 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:49:08.777 [main] TransactionsPage - Successfully Deposited the amount
+[INFO ] 2025-03-11 16:49:08.777 [main] TransactionsPage - 'Account doesn't exist' error message is displayed
+[INFO ] 2025-03-11 16:51:02.423 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 16:51:07.039 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 16:51:08.743 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 16:51:13.262 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 16:51:13.799 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:51:14.170 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:51:14.582 [main] TransactionsPage - Successfully Deposited the amount
+[INFO ] 2025-03-11 16:51:14.583 [main] TransactionsPage - 'Account doesn't exist' error message is displayed
+[INFO ] 2025-03-11 16:56:36.680 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 16:56:42.390 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 16:56:43.706 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 16:56:47.939 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 16:56:48.326 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:56:48.675 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 16:56:49.120 [main] TransactionsPage - Successfully Deposited the amount
+[INFO ] 2025-03-11 17:14:23.666 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 17:14:25.085 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 17:14:27.686 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 17:14:32.667 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 17:14:33.311 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 17:14:33.577 [main] TransactionsPage - Successfully clicked on Deposit Option
+[ERROR] 2025-03-11 17:14:44.586 [main] TransactionsPage - Exception occurred while depositing amount: no such element: Unable to locate element: {"method":"xpath","selector":"//small[@class='_checks text-danger']"}
+  (Session info: chrome=134.0.6998.36)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SSREDDY', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.36, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55306}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f83ce84fbddb1d048c0a3e97d41202e8
+*** Element info: {Using=xpath, value=//small[@class='_checks text-danger']}
+[INFO ] 2025-03-11 17:15:43.911 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 17:15:51.526 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 17:15:52.949 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 17:15:57.126 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 17:15:57.696 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 17:15:58.130 [main] TransactionsPage - Successfully clicked on Deposit Option
+[ERROR] 2025-03-11 17:16:08.605 [main] TransactionsPage - Exception occurred while depositing amount: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'deposit successfully')]"}
+  (Session info: chrome=134.0.6998.36)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SSREDDY', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.36, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55498}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7bd98a1c107bb85f390b2cf56b01d25b
+*** Element info: {Using=xpath, value=//*[contains(text(),'deposit successfully')]}
+[INFO ] 2025-03-11 17:20:08.456 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 17:20:13.187 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 17:20:16.788 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 17:20:21.027 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 17:20:21.425 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 17:20:21.725 [main] TransactionsPage - Successfully clicked on Deposit Option
+[ERROR] 2025-03-11 17:20:32.598 [main] TransactionsPage - Exception occurred while depositing amount: no such element: Unable to locate element: {"method":"xpath","selector":"//small[@class='_checks text-danger']"}
+  (Session info: chrome=134.0.6998.36)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SSREDDY', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.26'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.36, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55752}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bd5382cf7a6294b974295109518c0b5e
+*** Element info: {Using=xpath, value=//small[@class='_checks text-danger']}
+[INFO ] 2025-03-11 17:22:00.859 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-11 17:22:07.607 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-11 17:22:09.568 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-11 17:22:14.761 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-11 17:22:15.442 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-11 17:22:15.996 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-12 15:57:40.713 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 15:57:46.313 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 15:58:08.229 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 15:58:14.529 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 15:58:18.037 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-12 15:58:21.841 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-12 16:11:52.245 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:11:56.749 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:11:58.532 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:11:58.648 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:12:02.911 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:12:03.294 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-12 16:12:09.863 [main] DepositAmountpage - Successfully Deposited
+[INFO ] 2025-03-12 16:12:13.975 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:12:14.136 [main] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-12 16:12:15.216 [main] DepositAmountpage -  user clicked on Manage account
+[INFO ] 2025-03-12 16:12:15.454 [main] DepositAmountpage - successfully Successfully Account number is displayed
+[INFO ] 2025-03-12 16:12:15.621 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-12 16:12:15.964 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-12 16:12:16.037 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-12 16:12:21.734 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-12 16:12:21.734 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-12 16:12:26.019 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2025-03-12 16:12:26.204 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-12 16:12:26.237 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-12 16:12:26.237 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-12 16:14:44.019 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:14:48.796 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:14:50.208 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:14:54.397 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:14:55.057 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-12 16:15:01.784 [main] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-12 16:17:05.276 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:17:12.556 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:17:14.609 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:17:18.793 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:17:19.289 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-12 16:17:26.109 [main] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-12 16:18:22.992 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:18:25.786 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:18:26.839 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:18:31.039 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:18:31.628 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-12 16:18:38.372 [main] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-12 16:19:57.873 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:20:00.665 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:20:02.672 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:20:06.849 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:20:07.365 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-12 16:20:10.766 [main] TransactionsPage - Error message is displayed as 'Account doesn't exist'
+[INFO ] 2025-03-12 16:22:08.284 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:22:14.378 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:22:17.165 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:22:21.336 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:22:22.101 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-12 16:22:25.500 [main] TransactionsPage - Error message is displayed as 'Account doesn't exist'
+[INFO ] 2025-03-12 16:22:28.630 [main] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-12 16:24:22.890 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:24:27.436 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:24:29.950 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:24:34.148 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:24:34.739 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-12 16:24:35.188 [main] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-12 16:24:35.314 [main] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-12 16:24:39.431 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:24:39.563 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-12 16:24:40.916 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-12 16:24:41.216 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-12 16:24:41.268 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-12 16:24:41.446 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-12 16:24:41.841 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-12 16:24:42.011 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-12 16:24:49.765 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-12 16:24:49.773 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-12 16:24:51.511 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-12 16:29:49.744 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-12 16:29:51.321 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-12 16:29:56.450 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-12 16:30:00.918 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:30:01.523 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-12 16:30:01.995 [main] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-12 16:30:02.142 [main] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-12 16:30:06.257 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-12 16:30:06.417 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-12 16:30:07.705 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-12 16:30:08.002 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-12 16:30:08.086 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-12 16:30:08.278 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-12 16:30:08.621 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-12 16:30:08.704 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-12 16:30:14.184 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-12 16:30:14.204 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-12 16:30:16.083 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-13 11:32:15.556 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 11:32:15.556 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 11:32:15.556 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 11:32:16.128 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 11:32:21.275 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 11:32:28.108 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-13 11:32:33.319 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 11:32:34.737 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 11:32:40.833 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-13 11:32:45.033 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 11:32:45.157 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-13 11:32:55.489 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-13 11:32:55.947 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-13 11:32:56.012 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-13 11:32:58.963 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-13 11:32:59.448 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-13 11:32:59.527 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-13 11:33:04.999 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-13 11:33:05.010 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-13 11:33:05.866 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-13 11:34:05.033 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 11:34:41.059 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 11:34:58.479 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-13 11:35:02.656 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 11:35:03.283 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-13 11:35:03.591 [main] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-13 11:35:03.742 [main] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-13 11:35:07.884 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 11:35:08.007 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-13 11:35:10.786 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-13 11:35:11.063 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-13 11:35:11.142 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-13 11:35:11.323 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-13 11:35:16.835 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-13 11:35:16.909 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-13 11:35:23.177 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-13 11:35:23.194 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-13 11:35:30.463 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-13 11:36:00.083 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 11:36:20.471 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 11:37:00.939 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-13 11:37:05.177 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 11:38:58.330 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 11:39:31.832 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 11:39:49.386 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-13 11:39:53.600 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 11:39:54.178 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-13 11:39:54.560 [main] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-13 11:39:54.721 [main] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-13 11:39:58.924 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 11:39:59.085 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-13 11:40:00.126 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-13 11:40:00.374 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-13 11:40:00.445 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-13 11:40:00.620 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-13 11:40:00.925 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-13 11:40:01.039 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-13 11:40:06.821 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-13 11:40:06.841 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-13 11:40:08.366 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-13 12:58:01.366 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 12:58:01.365 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 12:58:07.292 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 12:58:08.163 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 12:59:39.519 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 12:59:56.936 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 13:00:08.136 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-13 13:00:13.267 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 13:00:13.675 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-13 13:00:13.918 [main] AdminWithdrawAmountPage - Successfully user entered amount
+[INFO ] 2025-03-13 13:00:13.919 [main] AdminWithdrawAmountPage - Account doesn't exist is displayed - Expected
+[INFO ] 2025-03-13 13:08:23.824 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 13:08:27.366 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 13:08:29.854 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-13 13:08:29.884 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-13 13:08:30.118 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-13 13:08:40.256 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-13 13:08:44.633 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-13 13:08:45.040 [main] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-13 13:08:51.670 [main] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-15 12:01:37.818 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:01:40.124 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:01:44.496 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:01:45.187 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:01:45.314 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:01:46.655 [main] TransactionsPage - User successfully clicked on Edit Option
+[INFO ] 2025-03-15 12:01:47.138 [main] TransactionsPage - User successfully Entered Title Name
+[INFO ] 2025-03-15 12:01:47.632 [main] TransactionsPage - User successfully Entered data in Custom field
+[INFO ] 2025-03-15 12:01:47.784 [main] TransactionsPage - Announcement successfully created
+[INFO ] 2025-03-15 12:06:29.264 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:06:35.850 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:06:37.429 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:06:38.580 [main] NewAccountPage - User Clicked on Settings
+[INFO ] 2025-03-15 12:06:39.043 [main] NewAccountPage - User validated all the fields
+[INFO ] 2025-03-15 12:06:39.169 [main] NewAccountPage - User Successfully updated System Information
+[INFO ] 2025-03-15 12:08:21.735 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:08:24.321 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:08:26.317 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:08:26.483 [main] TransactionsPage - Successfully clicked on Account management dropdown
+[INFO ] 2025-03-15 12:08:27.586 [main] TransactionsPage - Successfully clicked on Manage account
+[INFO ] 2025-03-15 12:08:27.736 [main] TransactionsPage - Successfully clicked on Actions dropdown
+[INFO ] 2025-03-15 12:08:27.887 [main] TransactionsPage - Successfully clicked on delete button
+[INFO ] 2025-03-15 12:08:28.175 [main] TransactionsPage - Account successfully deleted.
+[INFO ] 2025-03-15 12:09:26.875 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:09:30.725 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:09:31.931 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:09:32.115 [main] AdminHomePage - User clicked on Account Management dropdown
+[INFO ] 2025-03-15 12:09:33.616 [main] AdminHomePage - User clicked on Manage Account
+[INFO ] 2025-03-15 12:09:33.758 [main] AdminHomePage - User clicked on Action button
+[INFO ] 2025-03-15 12:09:34.204 [main] AdminHomePage - User clicked on Edit button
+[INFO ] 2025-03-15 12:09:34.482 [main] AdminHomePage - User updated name field
+[INFO ] 2025-03-15 12:09:34.655 [main] AdminHomePage - User clicked on Save button
+[INFO ] 2025-03-15 12:09:34.656 [main] AdminHomePage - Account successfully saved.
+[INFO ] 2025-03-15 12:10:48.682 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:10:51.277 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:10:52.861 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:10:53.325 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:10:53.507 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:10:53.657 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:13:49.644 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:13:51.372 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:13:52.524 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:13:53.038 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:13:53.191 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:13:54.470 [main] TransactionsPage - User successfully clicked on Edit Option
+[INFO ] 2025-03-15 12:13:54.851 [main] TransactionsPage - User successfully Entered Title Name
+[INFO ] 2025-03-15 12:13:55.241 [main] TransactionsPage - User successfully Entered data in Custom field
+[INFO ] 2025-03-15 12:13:55.361 [main] TransactionsPage - Announcement successfully created
+[INFO ] 2025-03-15 12:14:00.849 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:14:04.414 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:14:05.732 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:14:06.294 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:14:06.472 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:14:06.744 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:15:44.923 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:15:46.771 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:15:48.834 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:15:49.397 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:15:49.606 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:15:50.296 [main] TransactionsPage - User successfully clicked on Edit Option
+[INFO ] 2025-03-15 12:15:50.605 [main] TransactionsPage - User successfully Entered Title Name
+[INFO ] 2025-03-15 12:15:50.927 [main] TransactionsPage - User successfully Entered data in Custom field
+[INFO ] 2025-03-15 12:15:51.051 [main] TransactionsPage - Announcement successfully created
+[INFO ] 2025-03-15 12:20:04.328 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:20:08.842 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:20:14.488 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:20:15.203 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:20:15.457 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:20:20.371 [main] TransactionsPage - User successfully clicked on Edit Option
+[INFO ] 2025-03-15 12:20:20.710 [main] TransactionsPage - User successfully Entered Title Name
+[INFO ] 2025-03-15 12:20:21.089 [main] TransactionsPage - User successfully Entered data in Custom field
+[INFO ] 2025-03-15 12:20:21.242 [main] TransactionsPage - Announcement successfully created
+[INFO ] 2025-03-15 12:20:29.216 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:20:51.385 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:20:53.108 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:20:53.845 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:20:54.032 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:20:54.200 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:32:19.521 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:32:20.593 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:32:22.669 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:32:23.374 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:32:23.576 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:32:26.250 [main] TransactionsPage - User successfully clicked on Edit Option
+[INFO ] 2025-03-15 12:32:26.659 [main] TransactionsPage - User successfully Entered Title Name
+[INFO ] 2025-03-15 12:32:27.048 [main] TransactionsPage - User successfully Entered data in Custom field
+[INFO ] 2025-03-15 12:32:27.168 [main] TransactionsPage - Announcement successfully created
+[INFO ] 2025-03-15 12:33:25.040 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:33:29.319 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:33:30.843 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:33:31.564 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:33:31.703 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:33:31.860 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:34:59.145 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:35:01.802 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:35:02.982 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:35:03.679 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:35:03.859 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:35:04.050 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:38:16.923 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:38:24.386 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:38:26.656 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:38:27.078 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:38:27.209 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:38:27.332 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:39:00.587 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:39:04.510 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:39:06.592 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:39:07.093 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:39:07.270 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:39:07.447 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:39:07.713 [main] TransactionsPage - User successfully Deleted Announcement
+[INFO ] 2025-03-15 12:40:24.607 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:40:26.533 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:40:29.269 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:40:29.798 [main] TransactionsPage - Announcement successfully clicked
+[INFO ] 2025-03-15 12:40:29.940 [main] TransactionsPage - Action Drpdown successfully clicked
+[INFO ] 2025-03-15 12:40:30.087 [main] TransactionsPage - User successfully Clicked on Delete option
+[INFO ] 2025-03-15 12:40:36.249 [main] TransactionsPage - User successfully Deleted Announcement
+[INFO ] 2025-03-15 12:42:23.031 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:42:26.760 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:42:28.798 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:42:33.009 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 12:42:33.396 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 12:42:33.629 [main] DepositAmountpage - User successfully entered account number
+[INFO ] 2025-03-15 12:42:33.769 [main] DepositAmountpage - User successfully entered deposit amount
+[INFO ] 2025-03-15 12:42:34.874 [main] DepositAmountpage - User successfully clicked on Cancel button
+[INFO ] 2025-03-15 12:43:49.991 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:43:54.040 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:43:55.119 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:43:59.331 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 12:43:59.781 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 12:44:00.049 [main] DepositAmountpage - User successfully entered account number
+[INFO ] 2025-03-15 12:44:00.168 [main] DepositAmountpage - User successfully entered deposit amount
+[INFO ] 2025-03-15 12:45:48.949 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:45:51.809 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:45:54.490 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:45:58.674 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 12:45:59.195 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 12:45:59.515 [main] DepositAmountpage - User successfully entered account number
+[INFO ] 2025-03-15 12:45:59.665 [main] DepositAmountpage - User successfully entered deposit amount
+[INFO ] 2025-03-15 12:46:00.612 [main] DepositAmountpage - User successfully clicked on Cancel button
+[INFO ] 2025-03-15 12:47:30.012 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 12:47:31.965 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 12:47:33.342 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 12:47:33.548 [main] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 12:47:33.989 [main] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-15 12:47:35.245 [main] CreateUserAccount - User entered all the required fields
+[INFO ] 2025-03-15 12:47:35.382 [main] CreateUserAccount - User clicked on save button
+[INFO ] 2025-03-15 13:32:49.012 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 13:32:52.826 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 13:32:54.805 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 13:32:55.082 [main] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 13:32:55.404 [main] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-15 13:32:56.565 [main] CreateUserAccount - User entered all the required fields
+[INFO ] 2025-03-15 13:32:56.730 [main] CreateUserAccount - User clicked on save button
+[INFO ] 2025-03-15 13:34:53.294 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 13:34:58.922 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 13:35:05.746 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 13:35:05.969 [main] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 13:35:06.377 [main] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-15 13:35:07.606 [main] CreateUserAccount - User entered all the required fields
+[INFO ] 2025-03-15 13:35:07.783 [main] CreateUserAccount - User clicked on save button
+[INFO ] 2025-03-15 13:36:49.000 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 13:36:53.269 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 13:36:59.103 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 13:36:59.290 [main] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 13:37:01.278 [main] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-15 13:37:02.430 [main] CreateUserAccount - User entered all the required fields
+[INFO ] 2025-03-15 13:37:02.583 [main] CreateUserAccount - User clicked on save button
+[INFO ] 2025-03-15 13:53:42.751 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 13:53:45.779 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 13:53:47.124 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 13:53:47.386 [main] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 13:53:47.793 [main] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-15 13:53:48.930 [main] CreateUserAccount - User entered all the required fields
+[INFO ] 2025-03-15 13:53:49.080 [main] CreateUserAccount - User clicked on save button
+[INFO ] 2025-03-15 13:57:49.927 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 13:57:52.921 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 13:57:54.197 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 13:57:58.722 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 13:57:59.139 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-15 13:57:59.494 [main] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-15 13:57:59.624 [main] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-15 13:58:03.772 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 13:58:03.914 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-15 13:58:05.760 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-15 13:58:06.043 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-15 13:58:06.109 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-15 13:58:06.270 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-15 13:58:06.591 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-15 13:58:06.679 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-15 13:58:12.174 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-15 13:58:12.195 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-15 13:58:13.611 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials
+[INFO ] 2025-03-15 14:02:48.491 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:02:50.191 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:02:51.637 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:02:55.869 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:02:56.241 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 14:02:56.546 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 14:02:56.725 [main] TransactionsPage - 'Account doesn't exist' error message is displayed
+[INFO ] 2025-03-15 14:26:54.189 [TestNG-test=Test-9] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:26:58.063 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:27:06.943 [TestNG-test=Test-13] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:08.366 [TestNG-test=Test-15] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:09.710 [TestNG-test=Test-19] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:11.889 [TestNG-test=Test-8] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:12.261 [TestNG-test=Test-14] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:12.289 [TestNG-test=Test-5] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:12.324 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:12.352 [TestNG-test=Test-11] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:12.440 [TestNG-test=Test-10] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:12.593 [TestNG-test=Test-18] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:12.893 [TestNG-test=Test-3] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:13.046 [TestNG-test=Test-16] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:13.291 [TestNG-test=Test-6] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:13.475 [TestNG-test=Test-12] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:13.654 [TestNG-test=Test-20] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:52.171 [TestNG-test=Test-2] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:27:55.793 [TestNG-test=Test-11] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:27:55.794 [TestNG-test=Test-5] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:27:55.794 [TestNG-test=Test-14] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:28:00.263 [TestNG-test=Test-9] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:28:10.494 [TestNG-test=Test-4] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:28:10.515 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:28:14.563 [TestNG-test=Test-4] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-15 14:28:14.607 [TestNG-test=Test-11] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:28:14.704 [TestNG-test=Test-5] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:28:14.779 [TestNG-test=Test-14] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:28:14.849 [TestNG-test=Test-9] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:28:15.201 [TestNG-test=Test-11] AdminLoginPage - Verifying admin user login
+[ERROR] 2025-03-15 14:39:23.434 [TestNG-test=Test-5] TransactionsPage - Exception occurred while depositing amount: java.net.ConnectException: Failed to connect to localhost/127.0.0.1:44750
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SSREDDY', ip: '192.168.0.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.26'
+Driver info: driver.version: RemoteWebDriver
+[INFO ] 2025-03-15 14:44:13.335 [TestNG-test=Test-2] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:44:19.701 [TestNG-test=Test-2] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:44:20.546 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:44:20.718 [TestNG-test=Test-3] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:44:31.419 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:44:31.419 [TestNG-test=Test-2] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:44:32.733 [TestNG-test=Test-2] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 14:44:33.140 [TestNG-test=Test-2] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-15 14:44:34.430 [TestNG-test=Test-2] CreateUserAccount - User entered all the required fields
+[INFO ] 2025-03-15 14:44:43.156 [TestNG-test=Test-4] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:44:43.218 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:44:51.668 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:44:51.705 [TestNG-test=Test-4] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:44:55.836 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:44:55.869 [TestNG-test=Test-4] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:44:55.971 [TestNG-test=Test-1] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-15 14:44:56.723 [TestNG-test=Test-1] NewAccountPage - successfully user clicked on New Account
+[INFO ] 2025-03-15 14:45:06.116 [TestNG-test=Test-5] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:45:07.681 [TestNG-test=Test-2] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:45:08.507 [TestNG-test=Test-6] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:45:28.613 [TestNG-test=Test-5] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:45:29.223 [TestNG-test=Test-2] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:45:31.524 [TestNG-test=Test-6] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:45:34.160 [TestNG-test=Test-5] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:45:35.025 [TestNG-test=Test-2] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:45:35.385 [TestNG-test=Test-5] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:45:35.420 [TestNG-test=Test-6] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:45:39.458 [TestNG-test=Test-2] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:45:39.548 [TestNG-test=Test-6] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:45:39.613 [TestNG-test=Test-5] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:45:48.108 [TestNG-test=Test-5] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 14:45:48.802 [TestNG-test=Test-6] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-15 14:45:52.197 [TestNG-test=Test-6] TransactionsPage - Error message is displayed as 'Account doesn't exist'
+[INFO ] 2025-03-15 14:45:53.002 [TestNG-test=Test-5] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:45:53.124 [TestNG-test=Test-5] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-15 14:45:54.834 [TestNG-test=Test-5] DepositAmountpage -  user clicked on Manage account
+[INFO ] 2025-03-15 14:45:55.043 [TestNG-test=Test-5] DepositAmountpage - successfully Successfully Account number is displayed
+[INFO ] 2025-03-15 14:45:55.192 [TestNG-test=Test-5] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-15 14:45:55.405 [TestNG-test=Test-6] TransactionsPage - Successfully Amount is Transfered to other Account
+[INFO ] 2025-03-15 14:45:55.815 [TestNG-test=Test-5] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-15 14:46:17.129 [TestNG-test=Test-6] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:46:18.335 [TestNG-test=Test-2] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:46:32.755 [TestNG-test=Test-6] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:46:34.609 [TestNG-test=Test-2] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:46:38.966 [TestNG-test=Test-6] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:46:53.951 [TestNG-test=Test-8] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:46:54.663 [TestNG-test=Test-7] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:46:56.970 [TestNG-test=Test-5] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:47:16.623 [TestNG-test=Test-7] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:47:25.479 [TestNG-test=Test-5] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:47:26.436 [TestNG-test=Test-7] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:47:37.768 [TestNG-test=Test-7] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:47:37.795 [TestNG-test=Test-5] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:47:38.000 [TestNG-test=Test-5] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 14:47:41.938 [TestNG-test=Test-7] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-15 14:47:41.975 [TestNG-test=Test-8] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:47:46.475 [TestNG-test=Test-8] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:48:02.161 [TestNG-test=Test-8] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:48:02.523 [TestNG-test=Test-8] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:48:22.304 [TestNG-test=Test-9] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:48:24.895 [TestNG-test=Test-5] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:48:24.954 [TestNG-test=Test-7] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:48:35.236 [TestNG-test=Test-9] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:48:39.563 [TestNG-test=Test-5] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:48:40.808 [TestNG-test=Test-7] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:48:43.037 [TestNG-test=Test-7] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:48:43.041 [TestNG-test=Test-5] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:48:45.685 [TestNG-test=Test-5] TransactionsPage - successfully clicked on Announcement tab
+[INFO ] 2025-03-15 14:48:47.716 [TestNG-test=Test-9] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:48:52.998 [TestNG-test=Test-5] TransactionsPage - ssuccessfully clicked on Create New button
+[INFO ] 2025-03-15 14:49:44.577 [TestNG-test=Test-10] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:49:46.363 [TestNG-test=Test-7] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:49:56.529 [TestNG-test=Test-5] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:50:14.051 [TestNG-test=Test-5] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:50:20.494 [TestNG-test=Test-7] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:50:21.679 [TestNG-test=Test-10] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:50:21.806 [TestNG-test=Test-5] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:50:23.159 [TestNG-test=Test-5] AdminHomePage - User clicked on Account Management dropdown
+[INFO ] 2025-03-15 14:50:24.791 [TestNG-test=Test-5] AdminHomePage - User clicked on Manage Account
+[INFO ] 2025-03-15 14:50:24.932 [TestNG-test=Test-5] AdminHomePage - User clicked on Action button
+[INFO ] 2025-03-15 14:50:25.187 [TestNG-test=Test-5] AdminHomePage - User clicked on Edit button
+[INFO ] 2025-03-15 14:50:25.877 [TestNG-test=Test-5] AdminHomePage - User updated name field
+[INFO ] 2025-03-15 14:50:25.888 [TestNG-test=Test-10] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:50:28.844 [TestNG-test=Test-5] AdminHomePage - User clicked on Save button
+[INFO ] 2025-03-15 14:50:28.844 [TestNG-test=Test-5] AdminHomePage - Account successfully saved.
+[INFO ] 2025-03-15 14:50:29.828 [TestNG-test=Test-7] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:50:56.840 [TestNG-test=Test-7] NewAccountPage - User Clicked on Settings
+[INFO ] 2025-03-15 14:51:07.290 [TestNG-test=Test-10] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:51:14.973 [TestNG-test=Test-10] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:54:50.089 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:55:07.287 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:55:10.197 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:55:15.354 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:55:15.928 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 14:55:16.547 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 14:55:16.706 [main] TransactionsPage - 'Account doesn't exist' error message is displayed
+[INFO ] 2025-03-15 14:56:04.786 [TestNG-test=Test-2] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:56:04.942 [TestNG-test=Test-3] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:56:05.436 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:56:20.625 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:56:20.797 [TestNG-test=Test-3] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:56:26.355 [TestNG-test=Test-2] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:56:26.519 [TestNG-test=Test-1] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:56:26.683 [TestNG-test=Test-3] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:56:29.543 [TestNG-test=Test-2] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:56:35.867 [TestNG-test=Test-5] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:56:35.967 [TestNG-test=Test-4] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:56:36.871 [TestNG-test=Test-1] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:56:45.436 [TestNG-test=Test-4] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:56:46.697 [TestNG-test=Test-5] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:56:48.114 [TestNG-test=Test-1] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:57:10.051 [TestNG-test=Test-6] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:57:12.285 [TestNG-test=Test-5] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:57:12.949 [TestNG-test=Test-4] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:57:22.678 [TestNG-test=Test-6] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:57:22.754 [TestNG-test=Test-5] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:57:29.926 [TestNG-test=Test-6] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:57:31.708 [TestNG-test=Test-5] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:57:33.599 [TestNG-test=Test-4] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:57:37.463 [TestNG-test=Test-4] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:57:37.903 [TestNG-test=Test-6] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:57:38.025 [TestNG-test=Test-5] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:57:39.471 [TestNG-test=Test-6] TransactionsPage - Successfully clicked on Transfer Option
+[INFO ] 2025-03-15 14:57:40.113 [TestNG-test=Test-5] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-15 14:57:40.555 [TestNG-test=Test-5] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-15 14:57:40.716 [TestNG-test=Test-5] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-15 14:57:41.641 [TestNG-test=Test-4] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:57:56.699 [TestNG-test=Test-7] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:57:57.179 [TestNG-test=Test-6] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:58:03.473 [TestNG-test=Test-4] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:58:12.987 [TestNG-test=Test-7] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:58:17.346 [TestNG-test=Test-6] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:58:18.892 [TestNG-test=Test-4] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:58:22.341 [TestNG-test=Test-6] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:58:24.967 [TestNG-test=Test-6] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:58:25.086 [TestNG-test=Test-7] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:58:25.280 [TestNG-test=Test-6] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:58:35.741 [TestNG-test=Test-7] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 14:58:35.823 [TestNG-test=Test-6] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:58:36.171 [TestNG-test=Test-7] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-15 14:58:36.328 [TestNG-test=Test-7] AdminWithdrawAmountPage - Successfully user entered amount
+[INFO ] 2025-03-15 14:58:36.329 [TestNG-test=Test-7] AdminWithdrawAmountPage - Account doesn't exist is displayed - Expected
+[INFO ] 2025-03-15 14:58:41.491 [TestNG-test=Test-4] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:58:43.166 [TestNG-test=Test-7] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:58:48.855 [TestNG-test=Test-8] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:58:55.487 [TestNG-test=Test-4] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:59:02.316 [TestNG-test=Test-8] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:59:02.436 [TestNG-test=Test-7] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:59:06.782 [TestNG-test=Test-8] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:59:07.510 [TestNG-test=Test-8] TransactionsPage - successfully clicked on Announcement tab
+[INFO ] 2025-03-15 14:59:08.587 [TestNG-test=Test-7] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:59:11.330 [TestNG-test=Test-8] TransactionsPage - ssuccessfully clicked on Create New button
+[INFO ] 2025-03-15 14:59:11.589 [TestNG-test=Test-8] TransactionsPage - successfully user entered titile name
+[INFO ] 2025-03-15 14:59:11.910 [TestNG-test=Test-8] TransactionsPage - successfully user entered data in custom field
+[INFO ] 2025-03-15 14:59:12.073 [TestNG-test=Test-8] TransactionsPage - Announcement successfully created
+[INFO ] 2025-03-15 14:59:12.290 [TestNG-test=Test-4] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:59:13.221 [TestNG-test=Test-4] CreateUserAccount - successfully user clicked on Account Management dropdown
+[INFO ] 2025-03-15 14:59:14.771 [TestNG-test=Test-4] CreateUserAccount - successfully user clicked on New Account
+[INFO ] 2025-03-15 14:59:19.570 [TestNG-test=Test-8] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:59:21.361 [TestNG-test=Test-9] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:59:27.771 [TestNG-test=Test-4] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 14:59:49.025 [TestNG-test=Test-9] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:59:49.761 [TestNG-test=Test-8] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 14:59:57.163 [TestNG-test=Test-9] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 14:59:58.622 [TestNG-test=Test-8] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:00:01.917 [TestNG-test=Test-4] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 15:00:48.726 [TestNG-test=Test-9] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 15:00:50.173 [TestNG-test=Test-10] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 15:00:59.785 [TestNG-test=Test-9] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 15:01:02.167 [TestNG-test=Test-9] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:01:02.650 [TestNG-test=Test-10] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 15:01:43.746 [TestNG-test=Test-10] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:01:44.076 [TestNG-test=Test-10] AdminHomePage - User clicked on Account Management dropdown
+[INFO ] 2025-03-15 15:01:45.165 [TestNG-test=Test-10] AdminHomePage - User clicked on Manage Account
+[INFO ] 2025-03-15 15:01:45.309 [TestNG-test=Test-10] AdminHomePage - User clicked on Action button
+[INFO ] 2025-03-15 15:01:45.841 [TestNG-test=Test-10] AdminHomePage - User clicked on Edit button
+[INFO ] 2025-03-15 15:12:15.040 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 15:12:21.227 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 15:12:23.481 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:12:23.627 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:12:27.831 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 15:12:28.302 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 15:12:34.839 [main] DepositAmountpage - Successfully Deposited
+[INFO ] 2025-03-15 15:12:39.086 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 15:12:39.228 [main] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-15 15:12:40.874 [main] DepositAmountpage -  user clicked on Manage account
+[INFO ] 2025-03-15 15:12:41.139 [main] DepositAmountpage - successfully Successfully Account number is displayed
+[INFO ] 2025-03-15 15:12:41.750 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-15 15:12:42.183 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-15 15:12:42.709 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-15 15:12:48.282 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-15 15:12:48.282 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-15 15:12:52.384 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2025-03-15 15:12:52.436 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-15 15:12:52.473 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-15 15:12:52.474 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-15 15:22:00.802 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 15:22:03.719 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 15:22:05.327 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:22:05.430 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:22:09.622 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 15:22:10.054 [main] TransactionsPage - Successfully clicked on Deposit Option
+[INFO ] 2025-03-15 15:22:16.631 [main] DepositAmountpage - Successfully Deposited
+[INFO ] 2025-03-15 15:22:20.785 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 15:22:20.914 [main] AdminHomePage - Successfully clciked on Account management dropdown
+[INFO ] 2025-03-15 15:22:22.677 [main] DepositAmountpage -  user clicked on Manage account
+[INFO ] 2025-03-15 15:22:22.882 [main] DepositAmountpage - successfully Successfully Account number is displayed
+[INFO ] 2025-03-15 15:22:23.018 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-15 15:22:23.416 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-15 15:22:23.510 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-15 15:22:28.914 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-15 15:22:28.915 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-15 15:22:33.152 [main] UserHomePage - User Home page is displayed successfully
+[INFO ] 2025-03-15 15:22:33.203 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-15 15:22:33.239 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-15 15:22:33.240 [main] DepositAmountpage - Successfully Verified currentbalancebeforedeposit
+[INFO ] 2025-03-15 15:23:51.350 [main] AdminLoginPage - Verifying open admin user login
+[INFO ] 2025-03-15 15:23:54.774 [main] AdminLoginPage - Verifying admin user login
+[INFO ] 2025-03-15 15:23:56.439 [main] AdminHomePage - Home page is displayed successfully
+[INFO ] 2025-03-15 15:24:00.656 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 15:24:01.603 [main] AdminWithdrawAmountPage - Successfully clicked on Withdraw Option
+[INFO ] 2025-03-15 15:24:01.993 [main] AdminWithdrawAmountPage - User entered required fields
+[INFO ] 2025-03-15 15:24:02.144 [main] AdminWithdrawAmountPage - User clicked on submit button
+[INFO ] 2025-03-15 15:24:06.443 [main] TransactionsPage - successfully clicked on Transactions dropdown
+[INFO ] 2025-03-15 15:24:06.637 [main] AdminWithdrawAmountPage - User clicked on Account Management dropdown
+[INFO ] 2025-03-15 15:24:08.538 [main] AdminWithdrawAmountPage - User clicked on Manage account
+[INFO ] 2025-03-15 15:24:09.015 [main] AdminWithdrawAmountPage - Successfully Searched Account number is displayed
+[INFO ] 2025-03-15 15:24:09.135 [main] AdminWithdrawAmountPage - Successfully Amount is deposited
+[INFO ] 2025-03-15 15:24:09.322 [main] DepositAmountpage - user clicked on Action dropdown
+[INFO ] 2025-03-15 15:24:09.725 [main] DepositAmountpage - user clicked on Edit
+[INFO ] 2025-03-15 15:24:09.808 [main] DepositAmountpage - Successfully User Email verified
+[INFO ] 2025-03-15 15:24:15.295 [main] AdminHomePage - Successfully Admin User Loggedout
+[INFO ] 2025-03-15 15:24:15.308 [main] AdminLoginPage - Verifying gotoWebSite Link
+[INFO ] 2025-03-15 15:24:15.878 [main] AdminWithdrawAmountPage - Successfully EnteredUsersCredentials

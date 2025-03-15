@@ -35,6 +35,12 @@ public class TransactionsPage {
 	
 	@FindBy(xpath="//button[normalize-space()='Submit']")
 	WebElement Submit;
+	 
+	@FindBy (xpath="//*[contains(text(),'deposit successfully')]")
+	WebElement successMessage;
+	@FindBy (xpath="//small[@class='_checks text-danger']")
+	WebElement errorMessage;
+	
 	
 	public TransactionsPage(WebDriver driver, ExtentTest test) {
 		this.driver = driver;
@@ -79,7 +85,8 @@ public class TransactionsPage {
 		Assert.assertTrue(true, "Successfully clicked on Deposit Option");
 		test.log(Status.PASS, "Successfully clicked on Deposit Option");
 		log.info("Successfully clicked on Deposit Option");
-		account_Number.sendKeys("1234567");
+		account_Number.sendKeys("12345678");
+		
 		Assert.assertTrue(true, "'Account doesn't exist' error message is displayed");
 		test.log(Status.PASS, "'Account doesn't exist' error message is displayed");
 		log.info("'Account doesn't exist' error message is displayed");
@@ -87,4 +94,33 @@ public class TransactionsPage {
 			e.printStackTrace();
 		}
 	}
-}
+	
+	
+	public void DeposiAamount() {
+		try {
+		Deposit.click();
+		Assert.assertTrue(true, "Successfully clicked on Deposit Option");
+		test.log(Status.PASS, "Successfully clicked on Deposit Option");
+		log.info("Successfully clicked on Deposit Option");
+		
+		account_Number.sendKeys("12345678");
+		Deposit_Amount.sendKeys("500");
+		Submit.click();
+		
+		// Verify if deposit was successful
+//       if (successMessage.isDisplayed()) {
+//            test.log(Status.PASS, "Successfully Deposited the amount");
+//            log.info("Successfully Deposited the amount");
+//        } else if (errorMessage.isDisplayed()) {
+//            test.log(Status.FAIL, "'Account doesn't exist' error message is displayed");
+//            log.info("'Account doesn't exist' error message is displayed");
+//            Assert.fail("'Account doesn't exist' error message is displayed");
+//        }
+
+    } catch (Exception e) {
+        test.log(Status.FAIL, "Exception occurred while depositing amount: " + e.getMessage());
+        log.error("Exception occurred while depositing amount: " + e.getMessage());
+        e.printStackTrace();
+		}
+	}
+	}

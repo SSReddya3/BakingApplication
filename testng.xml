@@ -6,10 +6,10 @@
 	<listener class-name="com.obs.listeners.ListenerClass"></listener>
 </listeners>
   <test thread-count="1" name="Test">
-	  <parameter name="Browser" value="edge"></parameter>
+	  <parameter name="Browser" value="chrome"></parameter>
 	    <classes>
- 				
- 			<class name="com.obs.tests.BannerMessageForTransfer"></class>
+ 		<!-- 		<class name="com.obs.tests.A19UpdatingAnnouncements"></class>-->
+     	  <class name="com.obs.tests.A13BannerMessageForWithdrawAmount"></class>  
 			
 			
 	    </classes>

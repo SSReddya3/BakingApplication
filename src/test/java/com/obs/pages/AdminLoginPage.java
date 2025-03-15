@@ -13,7 +13,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.obs.common.StandardWaitTimes;
-import com.obs.tests.LoginTest;
+import com.obs.tests.A1LoginTest;
 import com.obs.utilities.ReadProperties;
 
 public class AdminLoginPage  {
