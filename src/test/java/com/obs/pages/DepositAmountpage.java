@@ -61,10 +61,10 @@ public class DepositAmountpage {
 	@FindBy(xpath = "//button[normalize-space()='Login']")
 	WebElement loginbtn;
 	
-	@FindBy(xpath = "//h3[normalize-space()='Account Number: 6124934']")
+	@FindBy(xpath = "//h3[contains(text(),'Account Number')]")
 	WebElement UserAccountNumber;
 	
-	@FindBy(xpath = "//h3[normalize-space()='Current Balance: 1,001,000.00']")
+	@FindBy(xpath = "//h3[contains(text(),'Current Balance')]")
 	WebElement UserCurrentBalance;
 	
 	@FindBy(xpath = "//a[normalize-space()='Cancel']")
@@ -201,17 +201,17 @@ public class DepositAmountpage {
 		}
 	}
 	
-//	public void DepositAmountwithinvalidAccount() {
-//		
-//			account_Number.sendKeys("1234567");
-//				Assert.assertTrue(false, "'Account doesn't exist' error message is displayed");
-//				test.log(Status.PASS, "'Account doesn't exist' error message is displayed");
-//				log.info("'Account doesn't exist' error message is displayed");
-//			
-////			Deposit_Amount.sendKeys("1000");
-////			Submit.click();
-//		}
-//	
+	public void DepositAmountwithinvalidAccount() {
+		
+			account_Number.sendKeys("1234567");
+				Assert.assertTrue(false, "'Account doesn't exist' error message is displayed");
+				test.log(Status.PASS, "'Account doesn't exist' error message is displayed");
+				log.info("'Account doesn't exist' error message is displayed");
+			
+			Deposit_Amount.sendKeys("1000");
+			Submit.click();
+		}
+	
 	
 	public void UsersearchAccountNumber() {
 		try {

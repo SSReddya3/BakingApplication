@@ -14,10 +14,11 @@ import org.testng.Assert;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.obs.common.StandardWaitTimes;
+import com.obs.utilities.RandomNumber;
 
 public class CreateNewUserFromManageAccountScreenPage {
 	
-	Logger log = (Logger) LogManager.getLogger(TransactionsPage.class);
+	Logger log = (Logger) LogManager.getLogger(CreateNewUserFromManageAccountScreenPage.class);
 	WebDriver driver;
 	ExtentTest test;
 	
@@ -29,6 +30,8 @@ public class CreateNewUserFromManageAccountScreenPage {
 		driver.manage().timeouts().implicitlyWait(StandardWaitTimes.waitTime, TimeUnit.SECONDS);
 		PageFactory.initElements(driver, this);
 	}
+	
+	long Number = RandomNumber.getRandomNumber();
 	
 	@FindBy(xpath="//p[normalize-space()='Account Management']")
 	WebElement AcctMangemt;
@@ -100,7 +103,7 @@ public class CreateNewUserFromManageAccountScreenPage {
 	public void Create_NewAccount() {
 		
 		if(CreateNewAccountHeader.isDisplayed()) {
-			accountNumber.sendKeys("7264455");
+			accountNumber.sendKeys(String.valueOf(accountNumber));
 			FirstName.sendKeys("Venkat");
 			middleName.sendKeys("Krishna");
 			lastName.sendKeys("VK");
